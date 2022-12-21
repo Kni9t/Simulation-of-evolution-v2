@@ -1,0 +1,11 @@
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\bin\Debug\SimulationOfEvolution2.exe.config
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\bin\Debug\SimulationOfEvolution2.exe
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\bin\Debug\SimulationOfEvolution2.pdb
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.csproj.AssemblyReference.cache
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.csproj.SuggestedBindingRedirects.cache
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.Form1.resources
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.Properties.Resources.resources
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.csproj.GenerateResource.cache
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.csproj.CoreCompileInputs.cache
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.exe
+E:\3-For programming\GitHub\Simulation-of-evolution-v2\SimulationOfEvolution2\obj\Debug\SimulationOfEvolution2.pdb
